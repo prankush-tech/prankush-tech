@@ -5,12 +5,12 @@
 
 <h3 align="center">Just a kid trying to do some cool stuff</h3>
   
-A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Web Development.:bar_chart:. I like  exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: .“I will not stop, I will not rest, until I reach my goal or die trying....VEGETA
 
 
-![AGE](https://img.shields.io/badge/age-21-blue)
-![FOCUS](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
-![LIVING](https://img.shields.io/badge/living-JAMSHEDPUR-3c9)
+![Age](https://img.shields.io/badge/AGE-21-blue)
+![FOCUS](https://img.shields.io/badge/FOCUS-FrontEnd-brightgreen)
+![LIVING](https://img.shields.io/badge/LIVING-JAMSHEDPUR-3c9)
 <img src="https://komarev.com/ghpvc/?username=prankush-tech&label=Profile%20views&color=0e75b6&style=flat" alt="prankush-tech" />
 
 <img width="35%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif" />
