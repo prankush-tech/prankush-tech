@@ -2,10 +2,17 @@
 
 
 <h1 align="center"> Hola Amigos..... I'm Prankush Giri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-
 <h3 align="center">Just a kid trying to do some cool stuff</h3>
+
+
+
+
+
   
 A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Web Development.:bar_chart:. I like  exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: .“I will not stop, I will not rest, until I reach my goal or die trying....VEGETA
+
+
+
 
 
 ![Age](https://img.shields.io/badge/AGE-21-blue)
@@ -13,18 +20,37 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 ![LIVING](https://img.shields.io/badge/LIVING-JAMSHEDPUR-3c9)
 <img src="https://komarev.com/ghpvc/?username=prankush-tech&label=Profile%20views&color=0e75b6&style=flat" alt="prankush-tech" />
 
+
 <img width="35%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif" />
+
+
+
+
+
+
 
 - 🌱 I’m currently learning JS.
 - 👯 I’m looking to collaborate on projects and Basic Web Dev 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
-<br />
+<br>
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+  
 <a href="https://instagram.com/prankush1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prankush1999" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prankush_7250" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prankush_7250" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prankush_7250" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/76916192/128777319-45e6615c-9249-42b3-922c-5c7bec46f156.png" alt="prankush_7250" height="40" width="110" /></a>
 <a href="https://www.hackerrank.com/prankushgiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prankushgiri" height="30" width="40" /></a>
 </p>
+
+
+
 
 ## 👨‍💻 Languages and Tools
 <h3 align="center">Languages and Tools:</h3>
