@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hola Amigos..... I'm Prankush Giri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+<h3 align="center">Just a kid trying to do some cool stuff</h3>
   
 A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
@@ -43,7 +43,7 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 <div align="center">
 
 
-### Show some ❤️ by starring ⭐ some of the repositories!
+### Make sure to  Show some ❤️ on the repositories!
 
 
 
