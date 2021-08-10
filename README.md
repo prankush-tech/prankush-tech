@@ -66,7 +66,7 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" />
         </a> <a href="https://www.w3.org/html/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="60" height="60" /> </a> <a href="https://www.java.com" target="_blank"> <img
+                alt="html5" width="60" height="60" /></a><br><a href="https://www.java.com" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
                 width="60" height="60" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"> <img
@@ -82,7 +82,7 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
                 alt="python" width="60" height="60" /> </a> <a href="https://sass-lang.com" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
                 width="60" height="60" /> </a> <a href="https://unity.com/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60" /></a></p>
+                src="https://user-images.githubusercontent.com/76916192/128914549-908378d6-92c4-47d7-af8b-111c3ab46b70.png" alt="unity" width="60" height="60" /></a></p>
 
 </body>
 
