@@ -31,7 +31,8 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 
 - 🌱 I’m currently learning JS.
 - 👯 I’m looking to collaborate on projects and Basic Web Dev 
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: I know nothing
+
 <br>
 
 
@@ -82,7 +83,10 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
                 alt="python" width="60" height="60" /> </a> <a href="https://sass-lang.com" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
                 width="60" height="60" /> </a> <a href="https://unity.com/" target="_blank"> <img
-                src="https://user-images.githubusercontent.com/76916192/128914549-908378d6-92c4-47d7-af8b-111c3ab46b70.png" alt="unity" width="60" height="60" /></a></p>
+                src="https://user-images.githubusercontent.com/76916192/128914549-908378d6-92c4-47d7-af8b-111c3ab46b70.png" alt="unity" width="60" height="60" />
+  <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png"
+                alt="android" width="53" height="60" /></a> <a href="https://nodejs.org/en" target="_blank">  <img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="android" width="60" height="60" /></a> <a href="https://www.blender.org" target="_blank">
+  </a></p>
 
 </body>
 
