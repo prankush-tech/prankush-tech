@@ -5,13 +5,8 @@
 <h3 align="center">Just a kid trying to do some cool stuff</h3>
 
 
-
-
-
   
 A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Web Development.:bar_chart:. I like  exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: .“I will not stop, I will not rest, until I reach my goal or die trying....VEGETA
-
-
 
 
 
@@ -22,18 +17,10 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 <img width="35%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif" />
 
 
-
-
-
-
-
 - 🌱 I’m currently learning JS.
 - 👯 I’m looking to collaborate on projects and Basic Web Dev 
 - ⚡ Fun fact: I know nothing
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3><p align="left">
   
   
 <a href="https://instagram.com/prankush1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prankush1999" height="30" width="40" /></a>
@@ -43,6 +30,18 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 </p>
 
 
+
+## 🏆 Github Status
+<div align="center">
+
+<img width="25.2%" src="https://images.squarespace-cdn.com/content/v1/59e37cb0cd39c3506c632bc4/1553781219978-RZY2UJ8ZN8F2MATLE7VY/bladerunner.gif" alt="prankush-tech" />  <img  src="https://github-readme-stats.vercel.app/api?username=prankush-tech&show_icons=true&theme=react&count_private=true" alt="Prankush" />     
+</div>
+
+
+<br>
+
+<div align="center">
+### Make sure to  Show some ❤️ on the repositories!
 
 
 ## 👨‍💻 Languages and Tools
@@ -79,22 +78,3 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
                 width="60" height="60" /> </a><a href="https://threejs.org/" target="_blank"><img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="sass"   width="60" height="60" /> </a> <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/76916192/128914549-908378d6-92c4-47d7-af8b-111c3ab46b70.png" alt="unity" width="60" height="60" /> </a>  <a href="https://www.blender.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/blender_103868.png" alt="unity" width="60" height="60" /> </a></p>
 
 </body>
-
-## 🏆 Github Status
-<div align="center">
-
-<img width="23.2%" src="https://images.squarespace-cdn.com/content/v1/59e37cb0cd39c3506c632bc4/1553781219978-RZY2UJ8ZN8F2MATLE7VY/bladerunner.gif" alt="prankush-tech" />  <img  src="https://github-readme-stats.vercel.app/api?username=prankush-tech&show_icons=true&locale=en" alt="prankush-tech" />     
-</div>
-
-
-<br>
-
-<div align="center">
-
-
-### Make sure to  Show some ❤️ on the repositories!
-
-
-
-
-</div>
