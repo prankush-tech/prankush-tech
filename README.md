@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> Hola Amigos..... I'm Prankush Giri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">Just a kid trying to do some cool stuff</h3>
+<h3 align="center">🎃🎃🎃🎃🎃🎃Just a kid trying to do some cool stuff 🎃🎃🎃🎃🎃🎃</h3>
 
 
   
