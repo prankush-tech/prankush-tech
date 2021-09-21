@@ -26,7 +26,7 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 <a href="https://instagram.com/prankush1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prankush1999" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prankush_7250" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/76916192/128777319-45e6615c-9249-42b3-922c-5c7bec46f156.png" alt="prankush_7250" height="40" width="110" /></a>
-<a href="https://www.hackerrank.com/prankushgiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prankushgiri" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prankushgiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prankushgiri" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/prankush-giri-108146203/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" alt="prankushgiri" height="40" width="40" /></a>
 </p>
 
 
