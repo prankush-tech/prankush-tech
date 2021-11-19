@@ -17,7 +17,7 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 <img width="35%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif" />
 
 
-- 🌱 I’m currently learning JS..... (npm run dev.learn JS quick()==true)
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on projects and Basic Web Dev 
 - ⚡ Fun fact: I know nothing but I keep on learning
 <h3 align="left">Connect with me:</h3><p align="left">
