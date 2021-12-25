@@ -12,7 +12,6 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 
 ![Age](https://img.shields.io/badge/AGE-21-blue)
 ![FOCUS](https://img.shields.io/badge/FOCUS-FrontEnd-brightgreen)
-![LIVING](https://img.shields.io/badge/LIVING-JAMSHEDPUR-3c9)
 <img src="https://komarev.com/ghpvc/?username=prankush-tech&label=Profile%20views&color=0e75b6&style=flat" alt="prankush-tech" />
 <img width="50%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/76916192/147380323-f596f992-5dd2-47ef-bef8-30ffe24c68fd.gif" />
 
