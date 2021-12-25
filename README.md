@@ -33,7 +33,7 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 ## 🏆 Github Status
 <div align="center">
 
-<img width="27%"  alt="Github Image" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif"/>
+<img width="29%"  alt="Github Image" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif"/>
   <img src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" />     
 </div>
 
