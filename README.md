@@ -34,7 +34,7 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 ## 🏆 Github Status
 <div align="center">
 
-<img width="25.2%" src="https://images.squarespace-cdn.com/content/v1/59e37cb0cd39c3506c632bc4/1553781219978-RZY2UJ8ZN8F2MATLE7VY/bladerunner.gif" alt="prankush-tech" />  <img  src="https://github-readme-stats.vercel.app/api?username=prankush-tech&show_icons=true&theme=react&count_private=true" alt="Prankush" />     
+<img width="25.2%" src="https://images.squarespace-cdn.com/content/v1/59e37cb0cd39c3506c632bc4/1553781219978-RZY2UJ8ZN8F2MATLE7VY/bladerunner.gif" alt="prankush-tech" />  <img  src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" />     
 </div>
 
 
