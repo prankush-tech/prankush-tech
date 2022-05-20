@@ -6,18 +6,27 @@
 
 
   
-<h2 align ="center">A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Web Development.:bar_chart:.  I will not rest, until I reach my goal or die trying....VEGETA</h2>
+<h2 align ="center">A 21 Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Web Development.:bar_chart:.  I will not rest, until I reach my goal or die trying....VEGETA</h2>
 
 
 
 ![Age](https://img.shields.io/badge/AGE-21-blue)
 ![FOCUS](https://img.shields.io/badge/FOCUS-FrontEnd-brightgreen)
 <img src="https://komarev.com/ghpvc/?username=prankush-tech&label=Profile%20views&color=0e75b6&style=flat" alt="prankush-tech" />
-
-
-- 🌱 I’m currently learning THREE JS
-- 👯 I’m looking to collaborate on projects and Basic Web Dev 
-- ⚡ Fun fact: I know nothing but I keep on learning 
+ 
+ 
+ 
+ 
+ <div align="center" >
+  <div style="display: flex;">
+  
+ <img height="260"  src="https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,q_70/uxacqz8ay6uwyfw7xjfi/lofi-rap-remixes" alt="prankush1999" />
+      
+ <img height="260"  src="https://wallpapercave.com/uwp/uwp1745742.gif" alt="prankush1999" />
+      
+   
+  </div>
+</div>
 
 
 
@@ -34,11 +43,17 @@
 
 
 
-## 🏆 Github Status
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" />     
-</div>
 
+ <div align="center" >
+  <div style="display: flex;">
+    
+## 🏆 Github Status 🏆
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" />     
+      
+   
+  </div>
+</div>
 
 <br>
 
