@@ -6,21 +6,23 @@
 
 
   
-A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Web Development.:bar_chart:. I like  exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: .“I will not stop, I will not rest, until I reach my goal or die trying....VEGETA
+<h2 align ="center">A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Web Development.:bar_chart:.  I will not rest, until I reach my goal or die trying....VEGETA</h2>
 
 
 
 ![Age](https://img.shields.io/badge/AGE-21-blue)
 ![FOCUS](https://img.shields.io/badge/FOCUS-FrontEnd-brightgreen)
 <img src="https://komarev.com/ghpvc/?username=prankush-tech&label=Profile%20views&color=0e75b6&style=flat" alt="prankush-tech" />
-<img width="50%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/76916192/147380323-f596f992-5dd2-47ef-bef8-30ffe24c68fd.gif" />
 
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning THREE JS
 - 👯 I’m looking to collaborate on projects and Basic Web Dev 
-- ⚡ Fun fact: I know nothing but I keep on learning
-<h3 align="left">Connect with me:</h3><p align="left">
-  
+- ⚡ Fun fact: I know nothing but I keep on learning 
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   
 <a href="https://instagram.com/prankush1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prankush1999" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prankush_7250" target="blank">
@@ -30,10 +32,10 @@ A 21Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm pa
 
 
 
+
+
 ## 🏆 Github Status
 <div align="center">
-
-<img width="29%"  alt="Github Image" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif"/>
   <img src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" />     
 </div>
 
