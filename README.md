@@ -20,9 +20,9 @@
  <div align="center" >
   <div style="display: flex;">
   
- <img height="260"  src="https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,q_70/uxacqz8ay6uwyfw7xjfi/lofi-rap-remixes" alt="prankush1999" />
+ <img height="240"  src="https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,q_70/uxacqz8ay6uwyfw7xjfi/lofi-rap-remixes" alt="prankush1999" />
       
- <img height="260"  src="https://wallpapercave.com/uwp/uwp1745742.gif" alt="prankush1999" />
+ <img height="240"  src="https://wallpapercave.com/uwp/uwp1745742.gif" alt="prankush1999" />
       
    
   </div>
