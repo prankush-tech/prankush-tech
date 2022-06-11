@@ -1,7 +1,7 @@
 ![github-photoshop](https://user-images.githubusercontent.com/76916192/128660283-744beb22-4160-4d07-8f9c-db8c2c38f8bc.png)
 
 
-<h1 align="center"> Hola Amigos..... I'm Prankush Giri ! </h1>
+<h1 align="center"> Hola Amigos.... I'm Prankush Giri ! </h1>
 <h3 align="center">🎃🎃🎃🎃🎃🎃Just a kid trying to do some cool stuff 🎃🎃🎃🎃🎃🎃</h3>
 
 
