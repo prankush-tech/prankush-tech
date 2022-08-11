@@ -6,7 +6,7 @@
 
 
   
-<h2 align ="center">A 21 Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Web Development.:bar_chart:.  I will not rest, until I reach my goal or die trying....VEGETA</h2>
+<h2 align ="center">A 21 Y/O Artist who switched to become Software🌈 and Web developer🎯. I'm passionate about Web Development.:bar_chart:.</h2>
 
 
 
