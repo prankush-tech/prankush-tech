@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" width="270" />
 
@@ -13,4 +13,4 @@
 
 
 
-</p>
+</p> -->
