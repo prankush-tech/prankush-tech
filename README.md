@@ -1,5 +1,4 @@
-![Pastel Pink Blue Peach Textured Blocks Brand Feature Facebook Cover](https://user-images.githubusercontent.com/76916192/197358546-0907924c-1c24-4b81-9143-ee4b752fe77b.png)
-
+![197358546-0907924c-1c24-4b81-9143-ee4b752fe77b](https://user-images.githubusercontent.com/76916192/227782138-cd864d1d-1cbb-4e20-867a-f92bb2a7d7bd.png)
 
 
 <!-- <p align="center">
