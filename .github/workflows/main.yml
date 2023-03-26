@@ -1,4 +1,3 @@
-
 name: Metrics
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
@@ -11,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: 🦑 Achievements
+      - name: 🎃 Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -21,9 +20,13 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
 
 
-      - name: 🦑 General
+      - name: 🎃 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
