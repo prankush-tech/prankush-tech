@@ -1,4 +1,4 @@
-![197358546-0907924c-1c24-4b81-9143-ee4b752fe77b](https://user-images.githubusercontent.com/76916192/227782138-cd864d1d-1cbb-4e20-867a-f92bb2a7d7bd.png)
+<!-- ![197358546-0907924c-1c24-4b81-9143-ee4b752fe77b](https://user-images.githubusercontent.com/76916192/227782138-cd864d1d-1cbb-4e20-867a-f92bb2a7d7bd.png)
 
 
 <!-- <p align="center">
@@ -10,6 +10,7 @@
 <img src="https://streak-stats.demolab.com?user=prankush-tech&theme=neon-palenight&hide_border=true&border_radius=10" alt="Prankush" width="270" />
 
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
-</p> -->
+</p> --> -->
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
