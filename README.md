@@ -11,6 +11,12 @@
 
 
 
+<p align="center">
+  <img align="center" src="/general.svg" alt="Metrics" width="300">
+  <img align="center" src="/achievements.svg" alt="Metrics" width="300">
+  <img align="center" src="/achievements.svg" alt="Metrics" width="300">
+</p>
+
 </p> --> 
-<!-- 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
+
+
