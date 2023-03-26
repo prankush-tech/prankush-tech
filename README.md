@@ -11,12 +11,12 @@
 
 
 
-<p align="center">
-  <img align="center" src="/general.svg" alt="Metrics" width="300">
-  <img align="center" src="/achievements.svg" alt="Metrics" width="300">
-  <img align="center" src="/achievements.svg" alt="Metrics" width="300">
-</p>
 
 </p> --> 
 
 
+
+<p align="center">
+  <img align="center" src="/general.svg" alt="Metrics" width="330">
+  <img align="center" src="/achievements.svg" alt="Metrics" width="340">
+</p>
