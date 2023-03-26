@@ -17,6 +17,9 @@
 
 
 <p align="center">
-  <img align="center" src="/general.svg" alt="Metrics" width="330">
-  <img align="center" src="/achievements.svg" alt="Metrics" width="340">
+<img align="center" src="https://user-images.githubusercontent.com/76916192/227797008-16dfb8d6-9cfb-4e3f-a72f-bf4f33b20d07.jpg" alt="Metrics" height="330">
+  <img align="center" src="/general.svg" alt="Metrics" width="270">
+  <img align="center" src="/achievements.svg" alt="Metrics" width="270">
+  <img align="center" src="https://user-images.githubusercontent.com/76916192/227796945-2c7f78dc-b00b-4df8-b55b-9594e1998a3e.jpg" alt="Metrics" height="280">
 </p>
+
