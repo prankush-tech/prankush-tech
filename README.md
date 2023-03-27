@@ -17,11 +17,10 @@
 
 
 <p align="center">
-
-  <img align="center" src="/data.svg" alt="Metrics" width="190">
-  <img align="center" src="/people.svg" alt="Metrics" width="340">
-  <img align="center" src="/achievements.svg" alt="Metrics" width="200">
   <img align="center" src="/general.svg" alt="Metrics" width="150">
+  <img align="center" src="/data.svg" alt="Metrics" width="170">
+  <img align="center" src="/achievements.svg" alt="Metrics" width="200">
+  <img align="center" src="/people.svg" alt="Metrics" width="340">
 
 </p> 
 
