@@ -16,10 +16,12 @@
 
 
 
-<!-- <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/76916192/227797008-16dfb8d6-9cfb-4e3f-a72f-bf4f33b20d07.jpg" alt="Metrics" height="300">
-  <img align="center" src="/general.svg" alt="Metrics" width="250">
-  <img align="center" src="/achievements.svg" alt="Metrics" width="250">
-  <img align="center" src="https://user-images.githubusercontent.com/76916192/227796945-2c7f78dc-b00b-4df8-b55b-9594e1998a3e.jpg" alt="Metrics" height="260">
-</p> -->
+<p align="center">
+
+  <img align="center" src="/data.svg" alt="Metrics" width="200">
+  <img align="center" src="/people.svg" alt="Metrics" width="350">
+  <img align="center" src="/achievements.svg" alt="Metrics" width="220">
+  <img align="center" src="/general.svg" alt="Metrics" width="160">
+
+</p> 
 
