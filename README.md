@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img align="center" src="/data.svg" alt="Metrics" width="220">
+  <img align="center" src="/data.svg" alt="Metrics" width="210">
   <img align="center" src="/achievements.svg" alt="Metrics" width="260">
   <img align="center" src="/people.svg" alt="Metrics" width="350">
 
