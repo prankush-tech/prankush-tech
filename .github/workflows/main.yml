@@ -10,6 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
+      - name: 🎃 People
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: people.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+
+
       - name: 🎃 Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -20,13 +33,32 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
+
+      - name: 🎃 DATA
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: data.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: prankush-tech
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Calcutta
+
+      - name: 🎃 topics
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_notable: yes
+          plugin_discussions: yes
 
 
-      - name: 🎃 General
+      - name: 🎃 language
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -41,11 +73,6 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 10
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
           extras_css: |
             h2 { display: none !important; }
             .match:not(:last-child) { padding-bottom: 4px; }
