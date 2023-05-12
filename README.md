@@ -17,7 +17,7 @@
 
 
 <p align="center">
-   FOLLOW and wait for 10 mins, Bot will add your Name 🎃
+   FOLLOW and wait for 15 mins, Bot will add your Name 🎃
   <br>
   <img align="center" src="/data.svg" alt="Metrics" width="210">
   <img align="center" src="/achievements.svg" alt="Metrics" width="260">
