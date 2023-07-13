@@ -29,6 +29,7 @@ jobs:
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: prankush-tech
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
