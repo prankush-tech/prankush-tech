@@ -21,9 +21,9 @@
 <p align="center">
    FOLLOW and wait for 15 mins, Bot will add your Name 🎃
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" width="300" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" width="300" /> -->
   <img align="center" src="/data.svg" alt="Metrics" width="200">
-<!--   <img align="center" src="/achievements.svg" alt="Metrics" width="260">  -->
+  <img align="center" src="/achievements.svg" alt="Metrics" width="260"> 
   <img align="center" src="/people.svg" alt="Metrics" width="320">
 
 </p> 
