@@ -19,7 +19,7 @@
 
 
 <p align="center">
-   FOLLOW and wait for 15 mins, Bot will add your Name 🎃
+<!--    FOLLOW and wait for 15 mins, Bot will add your Name 🎃 -->
   <br>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" width="300" /> -->
   <img align="center" src="/data.svg" alt="Metrics" width="200">
