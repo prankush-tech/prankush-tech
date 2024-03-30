@@ -44,7 +44,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -179,14 +179,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 68.3kb of code in 77 edited files across 26 commits over last 13 days</small>
+                <small>estimation from 102kb of code in 96 edited files across 28 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.33487025520054" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="427.33487025520054" y="0" width="32.665129744799486" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.46298802528565" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="438.46298802528565" y="0" width="21.537011974714336" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -198,9 +198,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.16k lines</div>
-                                <div>34.6 kB</div>
-                                <div>92.9%</div>
+                                <div>1.84k lines</div>
+                                <div>55.6 kB</div>
+                                <div>95.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -211,9 +211,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>62 lines</div>
-                                <div>2.65 kB</div>
-                                <div>7.1%</div>
+                                <div>66 lines</div>
+                                <div>2.73 kB</div>
+                                <div>4.68%</div>
                             </small>
                         </div>
                     </section>
