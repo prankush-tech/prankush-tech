@@ -21,8 +21,8 @@
 <p align="center">
 <!--    FOLLOW and wait for 15 mins, Bot will add your Name 🎃 -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prankush-tech&count_private=true&theme=radical" alt="Prankush" width="300" /> -->
-  <img align="center" src="/general.svg" alt="Metrics" width="210"> 
-  <img align="center" src="/data.svg" alt="Metrics" width="250">
+  <img align="center" src="/general.svg" alt="Metrics" width="220"> 
+  <img align="center" src="/data.svg" alt="Metrics" width="280">
   <img align="center" src="/people.svg" alt="Metrics" width="300">
 
 </p> 
